@@ -20,11 +20,6 @@ const users = [
     firstName: "first3",
     lastName: "last3",
     email: "abc@gmail.com"
-  },
-  {
-    firstName: "first4",
-    lastName: "last4",
-    email: "abc@gmail.com"
   }
 ];
 
